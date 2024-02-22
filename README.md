@@ -47,5 +47,7 @@ Connect the dashboard to your dataset or substitute the existing dataset with yo
 Engage with the visuals, slicers, and question-answer visual to explore data insights.
 
 **Preview**
+
+
 ![image](https://github.com/palakbhardwaj/Analytics-Dashboard/assets/119412321/27ffae32-c0fe-4d41-ab7e-0996eafdbfb9)
 
