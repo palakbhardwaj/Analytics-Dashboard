@@ -45,6 +45,7 @@ Clone or download the project repository.
 Open the Power BI file (.pbix) using Power BI Desktop.
 Connect the dashboard to your dataset or substitute the existing dataset with your own.
 Engage with the visuals, slicers, and question-answer visual to explore data insights.
+
 **Preview**
 ![image](https://github.com/palakbhardwaj/Analytics-Dashboard/assets/119412321/27ffae32-c0fe-4d41-ab7e-0996eafdbfb9)
 
